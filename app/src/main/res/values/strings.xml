@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IntentDemo</string>
+    <string name="background_button">Set Background</string>
+    <string name="setBackground">Set Background</string>
+</resources>
